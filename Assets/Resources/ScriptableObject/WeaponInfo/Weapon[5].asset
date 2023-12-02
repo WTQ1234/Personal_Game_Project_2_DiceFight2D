@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cadaf53101a4ed34a959b06aeecf8dc3, type: 3}
+  m_Name: Weapon[5]
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Id: 5
+  FileName: Weapon[5].asset
+  Name: Bayonet Gun
+  WeaponName: Bayonet Gun
+  WeaponDesc: Bayonet Gun
+  Icon: {fileID: 21300000, guid: 37575b80cb1879b46ba093da8f8dfdb3, type: 3}
+  prefab_weapon: {fileID: 4000875036440776958, guid: 22e740586f294e04ab909dec47ad4497, type: 3}
+  quality: 1
+  damage: 2
+  cd: 0
+  durable: 10
+  shoot: 1
+  prefab_bullet: {fileID: 3377802760990768914, guid: 184944429fa20bc40ac606d8418b75d8, type: 3}
+  bullet_damage: 1
+  bullet_vol: 13

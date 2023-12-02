@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cadaf53101a4ed34a959b06aeecf8dc3, type: 3}
+  m_Name: Weapon[7]
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Id: 7
+  FileName: Weapon[7].asset
+  Name: AK
+  WeaponName: AK
+  WeaponDesc: AK
+  Icon: {fileID: 21300000, guid: c86a3f38faca6a24aaed7e9bb6e9104c, type: 3}
+  prefab_weapon: {fileID: 4000875036440776958, guid: 35e9079db5ea76f43a3f918ca5459312, type: 3}
+  quality: 1
+  damage: 1
+  cd: 0
+  durable: 15
+  shoot: 1
+  prefab_bullet: {fileID: 3377802760990768914, guid: 184944429fa20bc40ac606d8418b75d8, type: 3}
+  bullet_damage: 1
+  bullet_vol: 16

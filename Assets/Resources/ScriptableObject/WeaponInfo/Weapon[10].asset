@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cadaf53101a4ed34a959b06aeecf8dc3, type: 3}
+  m_Name: Weapon[10]
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  Id: 10
+  FileName: Weapon[10].asset
+  Name: Shotgun
+  WeaponName: Shotgun
+  WeaponDesc: Shotgun
+  Icon: {fileID: 21300000, guid: 27a47987fc7071a419f27c9432e69bd7, type: 3}
+  prefab_weapon: {fileID: 4000875036440776958, guid: b403b8bdc6bad874d9e17071709c1d5b, type: 3}
+  quality: 2
+  damage: 2
+  cd: 0
+  durable: 20
+  shoot: 1
+  prefab_bullet: {fileID: 3377802760990768914, guid: 184944429fa20bc40ac606d8418b75d8, type: 3}
+  bullet_damage: 3
+  bullet_vol: 13
